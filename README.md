@@ -1,2 +1,12 @@
-# my_first_project
-Learning GitHub 
+// # my_first_project
+//Learning GitHub 
+
+#include<stdio.h>
+int main()
+{
+  printf("Hello world");
+  return 0;
+}
+
+
+
